@@ -10,3 +10,4 @@ class MyComponent extends React.Component {
 }
 
 ReactDOM.render(<MyComponent />, node);
+console.log("hello the homepage app is running");
